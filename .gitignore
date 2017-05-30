@@ -9,3 +9,24 @@ npm-debug.log
 
 # Nuxt generate
 dist
+
+# Global
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+pids
+logs
+results
+node_modules
+build
+assets
+dist
+.idea
+.idea/*
+.project
+npm-debug.log
