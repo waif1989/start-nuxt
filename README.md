@@ -1,3 +1,4 @@
+use nuxt.js to build a vue ssr project
 # yes
 
 > Nuxt.js project
