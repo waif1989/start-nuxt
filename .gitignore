@@ -25,6 +25,7 @@ results
 node_modules
 build
 assets
+coverage
 dist
 .idea
 .idea/*

@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        NUXT
+        {{title}}
       </h1>
       <h2 class="subtitle">
         Universal Vue.js Application
@@ -20,6 +20,11 @@
 import Logo from '~components/Logo.vue'
 
 export default {
+  data () {
+    return {
+      title: 'NUXT'
+    }
+  },
   components: {
     Logo
   }
